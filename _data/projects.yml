@@ -13,21 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Squid Quix
+  descr: "For navy exams and qualifications such as Enlisted Surface Warefare Specialist(ESWS), sailors are tested on their knowledge of naval battles, traditions and standards. The idea behind this is that senior sailors would make quizzes for their junior sailors to prepare them for tests and examinations."
   demo: https://example.com/
   tags:
-    - tag: MongoDB
+    - tag: React
+    - tag: Redux
     - tag: Express
-    - tag: AngularJS
+    - tag: Sequelize
     - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: TV Buff
+  descr: "This is a school project using client-side code and incorperating third party APIs. I used the React to build this web-app that grabs TV and Movie data from <a href="https://www.tvmaze.com" target="_blank" > TVmaze's </a> API. This app is a simple search engine for movies and TV."
+  demo: https://pmritchie.github.io/TV-BUFF-WEBAPP/#/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: React
+    - tag: Javascript
+    - tag: Bootstrap
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Sprints
+  descr: "The Sprints React App is my final project for school. A simple project manager application where teams can add sprints, tasks and comments to track projects."
+  tags:
+    - tag: React
+    - tag: Redux
+    - tag: Express
+    - tag: Sequelize
+    - tag: Node
