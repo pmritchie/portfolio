@@ -13,14 +13,10 @@ $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
-$text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
-$card-bg-color: linear-gradient(
-  145deg,
-  rgba(115, 115, 115, 0.15) 15%,
-  rgba(43, 45, 47, 1) 80%
-);
-$primary-color: #ff073a;
+$text-color: white !default;
+$bg-color:#6CBEED;
+$card-bg-color: white;
+$primary-color: #12263a;
 
 /* General */
 
@@ -61,7 +57,7 @@ a {
 
 .highlight-title {
   color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
+  text-shadow: 0.10rem 0.10rem 0.10rem $primary-color;
 }
 
 .highlight-link {
@@ -87,8 +83,6 @@ a {
 }
 
 .layout .card {
-  background: $card-bg-color;
-  border-radius: 2rem;
   margin: 3rem 0;
   padding: 1rem 2rem;
 }
@@ -112,8 +106,6 @@ a {
     rgba(100, 100, 105, 0.15) 15%,
     rgba(33, 33, 33, 0.4) 80%
   );
-  box-shadow: -4px -3px 2px 0 rgba(250, 250, 250, 0.13),
-    4px 4px 2px 0 rgba(0, 0, 0, 0.4);
 }
 
 @mixin neumorphism-button-pressed {
@@ -123,17 +115,12 @@ a {
     rgba(115, 115, 115, 0.15) 80%
   );
   box-shadow: 1px 1px 2px 0 rgba(210, 210, 210, 0.4),
-    -1px -1px 2px rgba(0, 0, 0, 0.4), inset 3px 3px 2px 0 rgba(0, 0, 0, 0.4),
-    inset -1px -2px 2px rgba(210, 210, 210, 0.4);
+    -1px -1px 2px rgba(0, 0, 0, 0.4),  3px 3px 2px 0 rgba(0, 0, 0, 0.4),
+     -1px -2px 2px rgba(210, 210, 210, 0.4);
 }
 
 .neumorphism-card {
-  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 1),
-    inset -2px -2px 4px rgba(99, 99, 99, 1);
-}
 
-.neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
 }
 
 /* Preloader */
