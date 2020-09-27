@@ -31,7 +31,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 
+about_me_description: A little about me, I currently live in the Orlando area and have just finished my BS in Web Development and Design at Full Sail University. I am currently looking for job opportunities in web development and have experience in MERN stack wep applications and also previous WordPress work experience. <br><br> A few things outside of programming that I enjoy are fishing, camping and playing guitar. Please check out the rest of the portfolio and contact me if you have job opportunities, would like to collaborate on any Open Source Projects or want to start a band! <br><br> Cheers!
 
 # SKILLS SECTION
 # show_skills_card:
