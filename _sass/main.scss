@@ -371,11 +371,12 @@ a {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
 
   div {
     padding: 0.2rem;
     transition: opacity 0.5s;
+    margin-bottom: 1rem;
   }
 
   div[skill-type="language"] {

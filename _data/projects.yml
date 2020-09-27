@@ -15,7 +15,7 @@
 
 - name: Squid Quiz
   descr: "For navy exams and qualifications such as Enlisted Surface Warefare Specialist(ESWS), sailors are tested on their knowledge of naval battles, traditions and standards. The idea behind this is that senior sailors would make quizzes for their junior sailors to prepare them for tests and examinations"
-  demo: https://example.com/
+  demo: https://github.com/pmritchie/asl-quiz-app-pmritchie
   tags:
     - tag: MongoDB
     - tag: Express
@@ -31,7 +31,7 @@
 
 - name: Sprints
   descr: "The Sprints MERN-Stack App is my final project for school. A simple project manager application where teams can add sprints, tasks and comments to track projects. I will continue to work on this to learn and as a playground to build development skills"
-  demo: https://pmritchie.github.io/TV-BUFF-WEBAPP/#/
+  demo: https://sprints-fs.herokuapp.com/
   tags:
     - tag: React
     - tag: Redux

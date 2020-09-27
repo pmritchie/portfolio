@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Portfolio
+title: Patrick's Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal Portfolio Site
 # baseurl: The subpath of your site
@@ -16,7 +16,7 @@ username: Patrick Ritchie
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: This is my portfolio
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: patrick.ritchie89@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -50,7 +50,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/16hPvOb89eXsRp-6AHWfhqrQqeRou1tGc/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -78,7 +78,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you would like to get intouch with me, email me at <a class="highlight-link" href="mailto:patrick.ritchie89@gmail.com" target="_blank" rel="noreferrer"> patrick.ritchie89@gmail.com </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
