@@ -43,6 +43,7 @@
 
 - name: More Work Experience
   descr: "Here are some more sites that I worked on or build. Bioaway/Concert Finance from start to finish and the rest I was tasked with updates annd maintenance. <br>  <a class="highlight-link" href="https://concertfinance.com" target="_blank" rel="noreferrer"> Concert Finance </a> <br> <a class="highlight-link" href="https://bioaway.com/" target="_blank" rel="noreferrer"> Bio-away </a> <br> <a class="highlight-link" href="https://www.ripit.com/" target="_blank" rel="noreferrer"> RipIt </a><br> <a class="highlight-link" href="https://www.beaugen.com/" target="_blank" rel="noreferrer"> Beaugen </a><br> <a class="highlight-link" href="https://www.mendfamily.com/" target="_blank" rel="noreferrer"> Mend Family </a>"
+  demo:
   tags:
     - tag: Wordpress
     - tag: Shopify
