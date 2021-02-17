@@ -13,6 +13,24 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Orlando Tree Trek
+  descr: "Orlando Tree Trek was one of my first projects that I revamped from an older site."
+  demo: https://www.orlandotreetrek.com/
+  tags:
+    - tag: Wordpress
+    - tag: SASS
+    - tag: ACF
+    - tag: Gravity Forms
+
+- name: Emindful
+  descr: "Emindful was the last project I worked on with Orlando Marketers"
+  demo: https://www.emindful.com/
+  tags:
+    - tag: Wordpress
+    - tag: SASS
+    - tag: ACF
+    - tag: Gravity Forms
+
 - name: Sprints
   descr: "The Sprints MERN-Stack App is my final project for school. A simple project manager application where teams can add sprints, tasks and comments to track projects. I will continue to work on this to learn and as a playground to build development skills"
   demo: https://sprints-fs.herokuapp.com/
