@@ -31,6 +31,29 @@
     - tag: ACF
     - tag: Gravity Forms
 
+- name: Simple Sale Central Florida
+  descr: "Simple Sale was another project I worked on at Orlando Marketers that was very template heavy in the need to duplicate pages for different cities and locations. Another obsticle that I had to overcome was finding a replacement for Google Maps address lookup. Google Maps starting to charge for their API and the client did not want to pay for that so instead I research and figured out how to implement Algolia Places"
+  demo: https://simplesalecentralflorida.com/
+  tags:
+    - tag: Wordpress
+    - tag: SASS
+    - tag: ACF
+    - tag: Gravity Forms
+    - tag: Carousels
+
+- name: More Work Experience
+  descr: "Here are some more sites that I worked on or build. Bioaway/Concert Finance from start to finish and the rest I was tasked with updates annd maintenance."
+  demo: https://bioaway.com/
+  demo: https://concertfinance.com
+  demo: https://www.mendfamily.com/
+  demo: https://www.beaugen.com/
+  demo: https://www.ripit.com/
+  tags:
+    - tag: Wordpress
+    - tag: Shopify
+    - tag: ACF
+    - tag: Gravity Forms
+
 - name: Sprints
   descr: "The Sprints MERN-Stack App is my final project for school. A simple project manager application where teams can add sprints, tasks and comments to track projects. I will continue to work on this to learn and as a playground to build development skills"
   demo: https://sprints-fs.herokuapp.com/
